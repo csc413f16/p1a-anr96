@@ -1,8 +1,8 @@
-Name:
+Name: Amanda Robinson
 
-Compilation and Run Successful:
+Compilation and Run Successful: Run OK
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Run OK; all tests passed
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
